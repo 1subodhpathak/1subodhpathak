@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUBODH PATHAK
 - 👀 I’m interested in open source
-- 🌱 I’m currently getting my hands on MERN stack and React Native
+- 🌱 I’m currently getting my hands on MERN, Typescript and React Native
 - 📫 Reach me at pathaksubodh945@gmail.com
 
 - ⚡ Fun fact: Programming is not meant for me, I am meant for programming
